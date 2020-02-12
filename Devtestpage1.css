@@ -1,0 +1,72 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    font-family:TRMBogleWeb-regular;
+  }
+  .wmg-container1{
+    width:100%;
+ }
+  .wmg-header{
+    margin:10px;
+  }
+  .wmg-pov{
+    position:relative;
+  }
+  .wmg-povlogo{
+    position:absolute;
+    top:0;
+    right:0;
+ }
+ .wmg-POV-card{
+    position:relative;
+    background-color:white;
+    text-align:left;
+    left:310px;
+    width:830px;
+    height:280px;
+    top:-75px;
+    padding:20px;
+    font-size:17px;
+ }
+ h2{
+     font-size:35px;
+ }
+ .wmg-card-cta{
+    background-color:red;
+    color:white;
+    display:inline-block;
+    cursor:pointer;
+    font-size:30px;
+    margin:4px 2px;
+    text-align:center;
+    width:130px;
+    height:40px;
+}
+ .wmg-cta-text{
+    font-size:14px;
+    padding:8px;
+}
+.wmg-container2{
+    width:1360px;
+    position:relative;
+    margin:0 auto;
+    top:-95px;
+}
+.wmg-header2{
+    font-size:25px;
+    position:relative;
+    top:-50px;
+    left:40px;
+}
+.wmg-categorymodule{
+    position:relative;
+    display:flex;
+    width:100%;
+    top:-50px;
+}
+.wmg-categoryimage{
+    position:relative;
+    width:16.66%;
+    padding:56px;
+}
